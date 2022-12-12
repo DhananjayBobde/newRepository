@@ -6,6 +6,7 @@ public class Sum {
 	int i,j;
 	i=j=5;
 	System.out.println(i*j);
+        System.out.println(i+j);
 	}
 
 }
